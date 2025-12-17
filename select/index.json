@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "争奪最前戦",
+  "base_artist": "harha",
+  "createdAt": "2025-12-17T17:26:36.268975Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "争奪最前戦",
+      "artist": "harha",
+      "has_synced": false,
+      "path": "select/pl_01_争奪最前戦_harha.txt"
+    }
+  ]
+}
